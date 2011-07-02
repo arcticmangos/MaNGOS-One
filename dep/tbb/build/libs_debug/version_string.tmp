@@ -1,0 +1,11 @@
+#define __TBB_VERSION_STRINGS \
+"TBB: BUILD_HOST\t\tks312170 (x86_64)" ENDL \
+"TBB: BUILD_OS\t\tDebian GNU/Linux 5.0.5 (lenny)" ENDL \
+"TBB: BUILD_KERNEL\tLinux 2.6.34.6-xxxx-grs-ipv6-64 #3 SMP Fri Sep 17 16:06:38 UTC 2010" ENDL \
+"TBB: BUILD_GCC\t\tgcc version 4.3.2 (Debian 4.3.2-1.1) " ENDL \
+"TBB: BUILD_GLIBC\t2.7" ENDL \
+"TBB: BUILD_LD\t\t" ENDL \
+"TBB: BUILD_TARGET\tintel64 on cc4.3.2_libc2.7_kernel2.6.34.6" ENDL \
+"TBB: BUILD_COMMAND\tg++ -DTBB_USE_DEBUG -DDO_ITT_NOTIFY -g -O0 -DUSE_PTHREAD -m64 -fPIC -D__TBB_BUILD=1 -Wall -Wno-parentheses -I../../src -I../../src/rml/include -I../../include" ENDL \
+
+#define __TBB_DATETIME "wto, 24 maj 2011, 18:28:16 UTC"
